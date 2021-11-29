@@ -58,4 +58,5 @@ history = model.fit_generator(
 
 훈련한 모델을 사용해 예측을 진행한 결과를 Leader board에 업로드하여 성능을 측정했을 때 baseline 성능과 동일한 53%의 정확도를 기록함
 
-![Leader board test resultf](D:\수업\212\컴퓨터비전\challenge01_Plant Disease Augmentation Classification\ComputerVisionProject1-master\images\leadboard_result1.png)
+![Leader board test resultf](images/leadboard_result1.png)
+
