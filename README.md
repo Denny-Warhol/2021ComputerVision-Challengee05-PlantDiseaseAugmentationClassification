@@ -1,4 +1,4 @@
-# 2021ComputerVision-Challengee14-Plant Disease Augmentation Classification
+# 2021ComputerVision-Challenge05-Plant Disease Augmentation Classification
 
 ## 환경 구축
 
