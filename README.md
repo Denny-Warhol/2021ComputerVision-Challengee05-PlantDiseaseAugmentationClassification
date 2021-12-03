@@ -1,5 +1,9 @@
 # 2021ComputerVision-Challenge05-Plant Disease Augmentation Classification
 
+## 동영상
+
+- 베이스라인을 찍기 위한 과정을 설명한 영상: [Youtube](https://youtu.be/vg9QvVc4Djc)
+
 ## 환경 구축
 
 - Conda를 사용해 가상 환경을 구축하고 필요한 라이브러리를 설치함
